@@ -1,0 +1,25 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 15rem;
+    
+}
+
+.btn-hero {
+    font-family: 'Courier New', Courier, monospace;
+    width: 10rem;
+    height: 2rem;
+    text-transform: capitalize;
+    background-color: wheat;
+    border-radius: 2rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.nav-center {
+    font-size: 2rem;
+    }
+
+
